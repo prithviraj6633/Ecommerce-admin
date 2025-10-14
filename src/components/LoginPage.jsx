@@ -90,7 +90,7 @@ const LoginPage = () => {
 
           {/* Login Button */}
           <button type="submit" className="btn btn-primary w-100 py-2 rounded-3 fw-semibold">
-            Login
+            Login 
           </button>
 
           {/* Register Link */}

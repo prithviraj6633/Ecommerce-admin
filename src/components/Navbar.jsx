@@ -20,7 +20,7 @@ const Navbar = ({ setIsRegister }) => {
     <nav className="navbar navbar-expand-lg navbar-light bg-white border-bottom shadow-sm px-4">
       {/* Left Side - Logo / Brand */}
       <a className="navbar-brand fw-bold text-primary" href="/">
-        🛒 Ecommerce Admin
+        🛒 ShopVerse
       </a>
 
       {/* Right Side */}
